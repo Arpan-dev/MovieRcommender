@@ -6,8 +6,8 @@ The propose of this system is to predict the top 5 similar movies based on the u
 # Data
 The Movie Database provides two datasets: tmdb_5000_movies.csv (Movie credits data):
 
-budget
-genres
+-budget
+-genres
 homepage
 id
 keywords
